@@ -10,7 +10,10 @@ package com.mycompany.csc325_w3_lab03;
  */
 public class Driver 
 {
-    public static void main(String[] args) {
+    Student std = new Student();
+    
+    public static void main(String[] args) 
+    {
         
     }
 }
