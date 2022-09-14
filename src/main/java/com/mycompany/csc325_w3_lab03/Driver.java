@@ -8,6 +8,9 @@ package com.mycompany.csc325_w3_lab03;
  *
  * @author chriscanenguez
  */
-public class Driver {
-    
+public class Driver 
+{
+    public static void main(String[] args) {
+        
+    }
 }
