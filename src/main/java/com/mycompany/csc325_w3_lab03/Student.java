@@ -10,5 +10,11 @@ package com.mycompany.csc325_w3_lab03;
  */
 public class Student 
 {
+    String firstName;
+    String lastName;
+    double gpa;
+    
+    
+    
     
 }
